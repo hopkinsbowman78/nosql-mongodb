@@ -22,6 +22,8 @@ To tackle this challenge I...
   
 + Pymongo Documentation (https://pymongo.readthedocs.io/en/stable/)
 
++ Github (Previous Bootcamp Challenges)
+
 + ChatGPT
 
 + Private tutor
