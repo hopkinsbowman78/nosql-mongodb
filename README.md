@@ -37,4 +37,6 @@ To tackle this challenge I...
 + NoSQL_analysis.ipynb
 + NoSQL_setup.ipynb
 
+#### Module 12 Nosql Challenge (Original Challenge Requirements)
+
 #### ReadMe
